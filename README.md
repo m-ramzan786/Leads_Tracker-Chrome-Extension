@@ -36,7 +36,7 @@ To use this Leads Tracker Chrome Extension project, follow these steps:
 
 ## Repository
 
-[Leads Tracker Chrome Extension Repository](https://github.com/m-ramzan786/Leads_Tracker-Chrome-Extension)
+[Leads Tracker Chrome Extension Repository](https://github.com/ramzancodeclub/Leads_Tracker-Chrome-Extension)
 
 ## How to Use
 
@@ -88,8 +88,8 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use and 
 
 ## Badges
 
-![GitHub top language](https://img.shields.io/github/languages/top/m-ramzan786/Leads_Tracker-Chrome-Extension)
-![GitHub license](https://img.shields.io/github/license/m-ramzan786/Leads_Tracker-Chrome-Extension)
+![GitHub top language](https://img.shields.io/github/languages/top/ramzancodeclub/Leads_Tracker-Chrome-Extension)
+![GitHub license](https://img.shields.io/github/license/ramzancodeclub/Leads_Tracker-Chrome-Extension)
 
 ## How to Contribute
 
@@ -105,9 +105,9 @@ If you'd like to contribute to the project, follow these steps:
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out:
 
-- Email: [mramzanstv@gmail.com](mramzanstv@gmail.com)
-- Portfolio: [Muhammad-Ramzan-Portfolio](https://muhammad-ramzan.vercel.app/)
-- LinkedIn: [in/m-ramzan786](https://www.linkedin.com/in/m-ramzan786/)
+- Email: [ramzancodeclub@gmail.com](ramzancodeclub@gmail.com)
+- Portfolio: [muhammad-ramzan.vercel.app](https://muhammad-ramzan.vercel.app/)
+- LinkedIn: [in/ramzancodeclub](https://www.linkedin.com/in/ramzancodeclub/)
 
 ## Tests
 
